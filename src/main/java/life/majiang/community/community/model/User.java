@@ -11,4 +11,11 @@ public class User {
     private Long gmtCreate;
     private Long gmtModified;
     private String avatarUrl;
+    private String sex;
+    private String tel;
+    private String email;
+    private String education;
+    private Integer age;
+    private String school;
+    private String city;
 }

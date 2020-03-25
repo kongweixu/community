@@ -4,6 +4,7 @@ body{
 
 .main {
     background-color: white;
+    margin-top: 40px;
 }
 
 .btn-publish{
@@ -40,3 +41,41 @@ body{
     font-size: 25px;
     font-weight: bold;
 }
+
+.primary-wrapper{
+    float: left;
+    width: 440px;
+}
+
+.info-company{
+    float: right;
+    width: 350px;
+}
+
+.job_primary{
+    height: 130px;
+    box-sizing: border-box;
+    padding: 0;
+}
+ul,ol,li{
+    list-style:none;
+}
+
+.job_menu{
+    margin-top: 30px;
+    font-size: 16px;
+    color: #0f0f0f;
+}
+
+.menu_name{
+    width: 95px;
+}
+
+.nav2 li{
+    width: 200px;
+    display:inline-block;
+    height: 28px;
+    padding-left: 100px;
+}
+
+
